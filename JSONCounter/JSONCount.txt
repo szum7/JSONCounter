@@ -1,0 +1,87 @@
+[
+  {
+    "title": "Case for Json & Json.NET",
+    "JSONCount": 29,
+	"duration": "02:59"
+  },
+  {
+    "title": "What is JSON",
+    "JSONCount": 5,
+	"duration": "00:52"
+  },
+  {
+    "title": "History of JSON & Json.NET",
+    "JSONCount": 7,
+	"duration": "01:23"
+  },
+  {
+    "title": "Demo 1",
+    "JSONCount": 19,
+	"duration": "03:22"
+  },
+  {
+    "title": "Why is JSON Important?",
+    "JSONCount": 6,
+	"duration": "01:13"
+  },
+  {
+    "title": "Demo 2: JSON in js",
+    "JSONCount": 5,
+	"duration": "01:48"
+  },
+  {
+    "title": "JSON Spec",
+    "JSONCount": 13,
+	"duration": "03:07"
+  },
+  {
+    "title": "Takeaway",
+    "JSONCount": 5,
+	"duration": "01:00"
+  },
+  {
+    "title": "Serialization Fundamentals",
+    "JSONCount": 4,
+	"duration": "01:20"
+  },
+  {
+    "title": "JsonSerializer",
+    "JSONCount": 8,
+	"duration": "00:58"
+  },
+  {
+    "title": "Demo: Serialize",
+    "JSONCount": 18,
+	"duration": "03:20"
+  },
+  {
+    "title": "Demo: Object References",
+    "JSONCount": 3,
+	"duration": "02:39"
+  },
+  {
+    "title": "Demo: Dynamic",
+    "JSONCount": 2,
+	"duration": "02:03"
+  },
+  {
+    "title": "Demo: Serialization to Different",
+    "JSONCount": 6,
+	"duration": "02:43"
+  },
+  {
+    "title": "JsonTextReader",
+    "JSONCount": 9,
+	"duration": "00:52"
+  },
+  {
+    "title": "Demo: JsonSerializer",
+    "JSONCount": 23,
+	"duration": "03:35"
+  },
+  {
+    "title": "Demo: JsonTextReader",
+    "JSONCount": 0,
+	"duration": "02:14"
+  }
+]
