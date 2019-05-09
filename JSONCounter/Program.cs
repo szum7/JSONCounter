@@ -72,7 +72,7 @@ namespace JSONCounter
 
         public override string ToString()
         {
-            return string.Join(Environment.NewLine, Courses.Select(c => $"{c.title}: {c.JSONCount}"));
+            return $"Total JSON count: {TotalJSONCount}" + "\n" + string.Join(Environment.NewLine, Courses.Select(c => $"{c.title} ({c.duration}): {c.JSONCount}"));
         }
     }
 
